@@ -1,2 +1,2 @@
-# Clone_Game_Hangman
+# Hangman Game
 Java | Recriando Hangman Game (Jogo da Forca).
